@@ -1,0 +1,20 @@
+title: "Yacine Fares"
+description: "Chef de Projet IA | 17 ans d'expérience | Produits IA en production"
+author: "Yacine Fares"
+url: "https://y-fares.github.io"
+
+# Theme
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
