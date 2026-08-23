@@ -13,6 +13,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - _next
 
 # Sass
 sass:
